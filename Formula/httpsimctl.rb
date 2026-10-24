@@ -1,8 +1,8 @@
 class Httpsimctl < Formula
   desc "Command-line tool for interacting with iOS Simulators via the HTTP REST API"
   homepage "https://github.com/sschizas/HTTPsimctl"
-  url "https://github.com/sschizas/HTTPsimctl/releases/download/1.5.0/httpsimctl.tar.gz"
-  sha256 "9df5ad8b22fa4dae5cac70c15ea38fe7df666348657f630fa723b1650a8a2bae"
+  url "https://github.com/sschizas/HTTPsimctl/releases/download/1.7.0/httpsimctl.tar.gz"
+  sha256 "3c4ada842b25367e390fdba9691d75874d8fb9b1accc728d7ec5cbb334b01d92"
   license "MIT"
   head "https://github.com/sschizas/HTTPsimctl.git", branch: "main"
 
